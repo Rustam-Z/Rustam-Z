@@ -12,8 +12,8 @@
 <a href="mailto:zokirovrustam202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 -->
  
-[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!-- 
 If you are reading this believe me you can achieve big results!
 Always remember why you have started. 
